@@ -1,0 +1,22 @@
+
+.table-body{
+
+    border: 1.5px solid rgb(201, 201, 231);
+    border-radius: 20%;
+}
+
+.entry{
+
+    display: flex;
+}
+
+.label{
+    font-weight: bold;
+}
+
+#title{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
